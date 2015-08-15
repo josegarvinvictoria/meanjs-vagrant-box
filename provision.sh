@@ -1,5 +1,5 @@
 echo "========================="
-echo "Provisioning your box…”
+echo "Provisioning your box… "
 echo "========================="
 cd /home/vagrant
 echo "Installing mongodb..."
